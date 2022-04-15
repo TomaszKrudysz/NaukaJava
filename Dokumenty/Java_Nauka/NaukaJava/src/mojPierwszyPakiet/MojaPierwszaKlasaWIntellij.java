@@ -1,6 +1,6 @@
 package mojPierwszyPakiet;
 
-public class mojaPierwszaKlasaWIntellij {
+public class MojaPierwszaKlasaWIntellij {
 
 
 

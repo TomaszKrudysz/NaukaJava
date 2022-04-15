@@ -1,18 +1,18 @@
 package jezykJava;
 
-import mojPierwszyPakiet.mojaPierwszaKlasaWIntellij;
+import mojPierwszyPakiet.MojaPierwszaKlasaWIntellij;
 /**
  * Created by tkrud on 14.04.2022.
  */
-public class przykladowaKlasa {
-    private mojaPierwszaKlasaWIntellij mojaPierwszaKlasaWIntellij;
+public class PrzykladowaKlasa {
+    private MojaPierwszaKlasaWIntellij mojaPierwszaKlasaWIntellij;
     private int x;
     private int y;
 
-    public przykladowaKlasa(){
+    public PrzykladowaKlasa(){
 
     }
-    public przykladowaKlasa(int x, int y){
+    public PrzykladowaKlasa(int x, int y){
         this.x=x;
         this.y=y;
     }

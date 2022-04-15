@@ -1,0 +1,10 @@
+Nazwy
+* pakiet zaczynamy od malej litery "przykladowyPakiet"
+* klasy nazwa powinna byc rzeczownikiem zaczynamy od wielkiej litery "Animal" "ArrayList" "WeryBigPlanet"
+* interfejsy (opisuje swoje oczekiwania wzgledem klasy) nazwa powinna byc przymiotnikiem (cecha, wlasciwosc, stan) lub
+czasownikiem polaczonym z rzeczownikiem i
+zaczynac sie od wielkiej litery "Runnable" "Initializable" "OperateCar"
+* metoda powinna byc czasownikiem i zaczynac sie od malej litery "println" "setValueOfX"
+calculateTheDifferenceBetweenVariables"
+* zmienne powinny zaczynac sie od malej litery "x" "firstName" "bufferReader"
+* stale piszemy wielkimi literami a wyrazy oddzielamy podkreslnikiem "BLACK" "MAX_VALUE" "SPEED_OF_LIGHT"
